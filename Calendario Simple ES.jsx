@@ -1,11 +1,12 @@
-﻿// Calendario Mensual
 // Copyright: Paul R
 // Sitio Web: http://www.ps-scripts.com
 // License: http://www.opensource.org/licenses/bsd-license.php
 //
+// ============================================================================
 // Traducción: Juan Manuel Díaz
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
 
 #target photoshop
 year = 0;
