@@ -8,6 +8,7 @@
 // Traducción: Juan Manuel Díaz
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
 
 // enable double-clicking from Mac Finder or Windows Explorer
 // this command only works in Photoshop CS2 and higher
