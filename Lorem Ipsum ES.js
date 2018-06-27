@@ -2,6 +2,7 @@
 // Traducción: Juan Manuel Díaz
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
 
 var loremString = "latin";
 
