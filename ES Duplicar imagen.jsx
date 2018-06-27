@@ -36,7 +36,7 @@ function main() {
 ///////////////////////////////////////////////////////////////////////////////
 function duplicateImageDialog(doc) {
 	// dialog properties
-	var dlg = new Window('dialog', 'Copias a medida por RF', undefined, {closeButton: false});
+	var dlg = new Window('dialog', 'Duplicar imagen', undefined, {closeButton: false});
 	dlg.orientation = 'row';
 	dlg.alignChildren = 'fill';
 	dlg.merged = false;
