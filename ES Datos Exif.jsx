@@ -1,8 +1,3 @@
-// This script was hacked from one I downloaded from the web JJMack 2008
-
-// This script is supplied as is. It is provided as freeware. 
-// The author accepts no liability for any problems arising from its use.
-
 /*
 <javascriptresource>
 <about>$$$/JavaScripts/ExifData/About=JJMack's ExifData.^r^rCopyright 2009 Mouseprints.^r^rScript utility for action.^rNOTE:Adds Text layer with EXIF data!</about>
