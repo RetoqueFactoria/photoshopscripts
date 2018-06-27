@@ -2,10 +2,6 @@
 // Copyright: ps-bridge-scripts@talktalk.net
 // Sitio Web: http://www.ps-bridge-scripts.talktalk.net
 // License: http://www.opensource.org/licenses/bsd-license.php
-//
-// Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
-// Contacto: contacto@retoquefactoria.com
 
 #target photoshop
 app.bringToFront();
