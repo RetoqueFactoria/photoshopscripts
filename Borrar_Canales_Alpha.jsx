@@ -1,1 +1,0 @@
-﻿app.activeDocument.channels.removeAll ();
