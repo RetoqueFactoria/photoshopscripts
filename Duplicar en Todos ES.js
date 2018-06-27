@@ -15,6 +15,7 @@
 // Traducción: Juan Manuel Díaz
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
 
 if( app.documents.length > 0 ){
 	duplicateToAll();
