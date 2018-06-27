@@ -1,4 +1,3 @@
-﻿// Editor de Nombres de Capa
 // Copyright: ps-bridge-scripts@talktalk.net
 // Sitio Web: http://www.ps-bridge-scripts.talktalk.net
 // License: http://www.opensource.org/licenses/bsd-license.php
