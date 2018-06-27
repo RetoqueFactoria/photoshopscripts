@@ -1,4 +1,4 @@
-﻿// Array Generator - Adobe Photoshop Script
+// Array Generator - Adobe Photoshop Script
 // Description: generates a two-dimensional array by cloning the selected layer; user defines number of rows and columns, as well as the horizontal and vertical spacing
 // Requirements: Adobe Photoshop CS, or higher
 // Version: 1.0.0, 9/July/2009
