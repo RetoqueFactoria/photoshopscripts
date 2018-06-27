@@ -4,10 +4,6 @@
 // Version: 0.5.0, 24/Dec/2009
 // Author: Trevor Morris (trevor@morris-photographics.com)
 // Website: http://morris-photographics.com/
-// ============================================================================
-// Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
-// Contacto: contacto@retoquefactoria.com
 
 // Things left to do/consider:
 // ask before overwriting files
@@ -16,6 +12,12 @@
 
 // enable double-clicking from Mac Finder or Windows Explorer
 // this command only works in Photoshop CS2 and higher
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: http://www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
+
 #target photoshop
 
 // bring application forward for double-click events
