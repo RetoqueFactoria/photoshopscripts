@@ -1,4 +1,18 @@
-﻿#target photoshop;
+/*
+This script is a part of "Script Arsenal" kit
+by Andrei Doubrovski
+www.Script-Arsenal.com
+*/ 
+/////////////////////////////////////////////
+//////  Begin "Previous File" code:
+
+//------------------------------------------------------------------------------
+// Traducción: Juan Manuel Díaz
+// Sitio Web: http://www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+//------------------------------------------------------------------------------
+
+#target photoshop;
 function openPreviousFile(){
 if (documents.length==0){
 var currentFile = new File(app.recentFiles[0]);
@@ -37,5 +51,6 @@ catch (e)
 {
 }
 };
-
+// =====
 openPreviousFile();
+//////  End "Previous File" code.
