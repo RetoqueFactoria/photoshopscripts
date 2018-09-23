@@ -10,9 +10,6 @@
 // 2. Restart Photoshop
 // 3. Choose File > Scripts > Layers to Comps
 // ============================================================================
-
-// enable double-clicking from Mac Finder or Windows Explorer
-// this command only works in Photoshop CS2 and higher
 //
 // ============================================================================
 // Traducción: Juan Manuel Díaz
@@ -20,6 +17,8 @@
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
 
+// enable double-clicking from Mac Finder or Windows Explorer
+// this command only works in Photoshop CS2 and higher
 #target Photoshop
 
 
