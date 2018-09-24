@@ -1,4 +1,5 @@
-﻿/*
+#target photoshop
+/*
 
 <javascriptresource>
 <name>Quick Run Code...</name>
