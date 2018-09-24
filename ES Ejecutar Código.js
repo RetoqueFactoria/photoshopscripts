@@ -88,7 +88,7 @@ Utility script using the "JSON Action Manager" scripting library.
 //  - Initial release.
 //------------------------------------------------------------------------------
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 //------------------------------------------------------------------------------
 
