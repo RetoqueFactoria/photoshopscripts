@@ -13,9 +13,10 @@
 */
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
+#target photoshop
 
 if( app.documents.length > 0 ){
 	duplicateToAll();
