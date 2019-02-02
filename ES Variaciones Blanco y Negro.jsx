@@ -14,8 +14,13 @@
 // this command only works in Photoshop CS2 and higher
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: convierte y guarda una imagen a blanco y negro utilizando 20 métodos diferentes 
+// (aunque se pueden añadir más sumando “preseteos” al Mezclador de Canales).
+// Al completar todas las variantes seleccionadas puede elegirse la opción de:
+// “Cargar automáticamente en Photoshop”, para facilitar comparar los resultados.
 // ============================================================================
 
 #target photoshop
