@@ -38,7 +38,7 @@
 
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
 // AYUDA: permite exportar el texto de un PSD al Bloc de Notas.
