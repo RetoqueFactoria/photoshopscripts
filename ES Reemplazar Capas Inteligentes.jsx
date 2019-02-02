@@ -1,3 +1,12 @@
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: Reemplaza todos los Objetos Inteligentes (O.I.) por Capas rasterizadas. 
+// A excepción de los O.I. que provengan de ACR.
+// ============================================================================
+
 //
 // ReplaceSmartLayers.js
 //
