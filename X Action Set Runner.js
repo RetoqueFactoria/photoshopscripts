@@ -1,3 +1,8 @@
+// AYUDA: Este comando permite probar varios efectos en una imagen en particular (Modo: INDEPENDIENTE). 
+// También permite ejecutar la totalidad de las acciones seleccionadas de una vez (Modo: SECUENCIAL).
+// Para utilizarlo, una vez abierto seleccione un Grupo de Acciones (izquierda) 
+// luego seleccione las Acciones de la derecha con Ctrl y/o Shift.
+// -----------------------------------------------------------------------------
 // ActionSetRunner
 // For lack of a better name for this script, I am calling it an Action
 // Set Runner.
