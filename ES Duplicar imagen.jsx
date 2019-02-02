@@ -9,6 +9,10 @@
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
+// AYUDA: permite generar Copias a medida del Documento actual. 
+// Incluye la opción de generar Copias “Acopladas”.
+// La opción de Duplicar que viene por defecto con Photoshop no permite indicar la cantidad de Copias.
+// ============================================================================
 
 // enable double-clicking from Mac Finder or Windows Explorer
 #target photoshop
