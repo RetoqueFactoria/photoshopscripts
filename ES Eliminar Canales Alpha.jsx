@@ -6,8 +6,10 @@
 // Contact: xbytor@gmail.com
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: Elimina todos los Canales Alpha del Documento actual.
 // ============================================================================
 
 function main() {
