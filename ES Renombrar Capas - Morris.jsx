@@ -9,6 +9,9 @@
 // Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
+// AYUDA: permite ingresar un Patrón de Renombrado que se utilizará en todas las Capas. 
+// Por ejemplo, ingresa “Banner” para renombrar las Capas como “Banner 001”, “Banner 002”, etc.
+// ============================================================================
 
 // enable double-clicking from Mac Finder or Windows Explorer
 // this command only works in Photoshop CS2 and higher
