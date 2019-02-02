@@ -1,3 +1,11 @@
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: Crea una nueva Capa de Texto con los datos EXIF incrustados de la fotografía abierta.
+// ============================================================================
+
 /*
 <javascriptresource>
 <about>$$$/JavaScripts/ExifData/About=JJMack's ExifData.^r^rCopyright 2009 Mouseprints.^r^rScript utility for action.^rNOTE:Adds Text layer with EXIF data!</about>
