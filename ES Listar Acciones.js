@@ -1,3 +1,12 @@
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: “lista” las acciones que estén cargadas en Photoshop. 
+// Permite exportar el detalle en un archivo de texto (log).
+// ============================================================================
+
 // ActionLister
 //    This is a sample application that uses part of the Xtended ActionManger
 //    APIs. This file contains all that is needed to examine the action sets
