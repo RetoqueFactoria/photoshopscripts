@@ -6,8 +6,11 @@
 // Website: http://morris-photographics.com/
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: genera una Matriz basada en la Capa o Grupo seleccionado. 
+// Permite especificar el número de filas y columnas, así como el espaciado horizontal y vertical.
 // ============================================================================
 
 // enable double-clicking from Mac Finder or Windows Explorer
