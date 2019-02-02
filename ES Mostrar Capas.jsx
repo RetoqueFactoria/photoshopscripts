@@ -6,8 +6,10 @@
 // Website: http://morris-photographics.com/
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: permite Activar la Visualización de todas las Capas de un Documento de una sola vez.
 // ============================================================================
 
 // enable double-clicking from Mac Finder or Windows Explorer
