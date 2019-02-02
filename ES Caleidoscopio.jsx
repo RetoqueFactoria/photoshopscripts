@@ -1,6 +1,12 @@
+//
+// ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: Crea imágenes de tipo “caleidoscópicas”. Permite indicar la cantidad de rotaciones.
+// ============================================================================
+//
 
 #target photoshop
 var checksOut = true;
