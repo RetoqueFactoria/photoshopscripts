@@ -1,7 +1,9 @@
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: genera “Texto de muestra” (aka: Lorem Ipsum, Dummy text). Orientado a Diseño Gráfico y Web.
 // ============================================================================
 
 var loremString = "latin";
