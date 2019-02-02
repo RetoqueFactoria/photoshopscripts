@@ -9,6 +9,8 @@
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
+// AYUDA: permite Ordenar las Capas Alfanuméricamente. Incluye la opción de añadir la Capa de Fondo
+// ============================================================================
 
 // Things to do/consider:
 // * Sort groups (and layers within groups)
