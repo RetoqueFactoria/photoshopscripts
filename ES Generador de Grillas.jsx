@@ -1,3 +1,8 @@
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
 // AYUDA: Genera un grilla con las imágenes de una Carpeta o una Selección de Bridge. Permite especificar la cantidad de imágenes en filas y columnas.
 
 function main(){
@@ -18,7 +23,7 @@ var dlg=
 "topDown:Checkbox{bounds:[241,70,380,90] , text:'Mosaico' }},"+
 "process:Button{bounds:[10,190,180,210] , text:'OK' },"+
 "button1:Button{bounds:[200,190,370,210] , text:'ESCAPE' }}};";
-var win = new Window(dlg,'CARGAR FOTOS EN GRILLA - RETOQUE FACTORIA');
+var win = new Window(dlg,'CARGAR FOTOS EN GRILLA');
 if(version.substr(0,version.indexOf('.'))>9){
 win.panel0.title.graphics.font = ScriptUI.newFont("Arial","BOLD",14);
 g = win.graphics;
