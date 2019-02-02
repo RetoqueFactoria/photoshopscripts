@@ -1,3 +1,12 @@
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: “lista” las fuentes (aka: tipografías) que estén cargadas en Photoshop. 
+// Permite exportar el detalle en un archivo de texto (log).
+// ============================================================================
+
 // FontLister
 //   This returns a list of all of the information about fonts that can be
 //   retrieved from the Photoshop runtime.
