@@ -11,6 +11,8 @@ www.Script-Arsenal.com
 // Sitio Web: http://www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 //------------------------------------------------------------------------------
+// AYUDA: Permite abrir el documento anterior de una carpeta respetando el orden alfabético.
+//------------------------------------------------------------------------------
 
 #target photoshop;
 function openPreviousFile(){
