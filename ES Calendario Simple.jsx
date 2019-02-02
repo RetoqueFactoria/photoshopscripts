@@ -4,8 +4,10 @@
 //
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: Crea un “Calendario mensual”. Genera una capa de texto (vectorial) con un mes a elección.
 // ============================================================================
 
 #target photoshop
