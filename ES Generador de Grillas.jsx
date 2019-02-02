@@ -1,4 +1,6 @@
-﻿function main(){
+// AYUDA: Genera un grilla con las imágenes de una Carpeta o una Selección de Bridge. Permite especificar la cantidad de imágenes en filas y columnas.
+
+function main(){
 var dlg=
 "dialog{text:'Script Interface',bounds:[100,100,500,340],"+
 "panel0:Panel{bounds:[10,10,390,230] , text:'' ,properties:{borderStyle:'etched',su1PanelCoordinates:true},"+
