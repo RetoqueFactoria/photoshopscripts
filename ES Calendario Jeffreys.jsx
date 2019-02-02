@@ -1,3 +1,15 @@
+//
+// ============================================================================
+// Traducción: Juan Manuel Díaz
+// Sitio Web: www.retoquefactoria.com
+// Contacto: contacto@retoquefactoria.com
+// ============================================================================
+// AYUDA: Crea un calendario con múltiples opciones. 
+// Posiblemente es el “Generador de Calendarios” más completo que puede encontrarse de forma gratuita para Ph.
+// Crea “Capas de Texto” y “Efectos de Capa” (Fx) fácilmente modificables. Pueden añadirse foto/s de fondo.
+// ============================================================================
+//
+
 #target photoshop
 #script "Jeffrey's Calendar Builder"
 #strict on
