@@ -6,7 +6,7 @@
 // Website: http://morris-photographics.com/
 // ============================================================================
 // Traducción: Juan Manuel Díaz
-// Sitio Web: http://www.retoquefactoria.com
+// Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
 // AYUDA: permite generar Copias a medida del Documento actual. 
