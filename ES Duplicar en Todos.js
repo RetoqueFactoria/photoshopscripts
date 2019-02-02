@@ -16,6 +16,9 @@
 // Sitio Web: www.retoquefactoria.com
 // Contacto: contacto@retoquefactoria.com
 // ============================================================================
+// AYUDA: Duplica la Capa o Grupo actual en todos los Documentos abiertos en Photoshop.
+// ============================================================================
+
 #target photoshop
 
 if( app.documents.length > 0 ){
