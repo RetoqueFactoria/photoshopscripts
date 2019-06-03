@@ -21,7 +21,7 @@ app.bringToFront();
 
 // ensure at least one document open
 if (!documents.length) {
-	alert('There are no documents open.', 'No Document');
+	alert('No hay Documentos abiertos.', 'No hay Documento');
 }
 
 // if at least one document exists, then proceed
@@ -83,7 +83,7 @@ function main() {
 		var doc = app.activeDocument; 
 	} 
 	catch (e){ 
-		alert("No Document Open..." ); 
+		alert("No hay Documentos abiertos..." ); 
 	}
  
 	var exifInfo = ""; 
@@ -97,12 +97,12 @@ try {
 		} 
 	} 
 	catch (e){ 
-		alert("No EXIF data exists..." ); 
+		alert("No contiene datos EXIF..." ); 
 	} 
 
 
 	if ( exifInfo == "" ) {
-		alert( "No EXIF data exists..." );
+		alert( "No contiene datos EXIF..." );
 	} 
 	else {
 		// alert( "exifInfo=" + exifInfo );
